@@ -51,6 +51,23 @@ Week 1 Reflection:
   the concept of “other-nets” as the alternative envisions of internet design and principles, along with some technical introductions
   about the general design and topologies of such alternatives.
   
+Bibliography:
+
+Carey, James W. Technology and Ideology: The Case of the Telegraph, Taylor & Francis, 2009, pp. 155-177. 
+
+Dourish, Paul. “Not the Internet, but This Internet: How Othernets Illuminate Our Feudal Internet”, ResearchGate, ResearchGate, 5 Oct 
+    2015, 
+    https://www.researchgate.net/publication/283683127_Not_The_Internet_but_This_Internet_How_Othernets_Illuminate_Our_Feudal_Internet
+  
+Gillespie, Tarleton. “Engineering a Principle: 'End-to-End' in the Design of the Internet.” Social Studies of Science, vol. 36, no. 3,
+    2006, pp. 427–457. JSTOR, www.jstor.org/stable/25474452.
+
+Wu, Tim. “Esperanto for Machines.” The Master Switch, The Rise and Fall of Information Empires, Alfred A. Knopf, 2011, pp. 196-203.
+
+
+
+
+
 
 
 /*--------------------------------*/
