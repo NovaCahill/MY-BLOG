@@ -71,7 +71,9 @@ Wu, Tim. “Esperanto for Machines.” The Master Switch, The Rise and Fall of I
 
 
 /*--------------------------------*/
+
 Week 2 blog comming very soon
+
 
 /*-------------------------------*/
 
@@ -112,7 +114,7 @@ addition, I hided some secret links on the front page with some stenographical t
 
 Berners-Lee, Tim, Information Management: A Proposal, CERN, Mar 1989, May 1990, pp.7.
 
-Wardrip-Fruin, Noah, What Hypertext Is, Brown University, nd.
+Wardrip-Fruin, Noah, What Hypertext Is, Brown University, nd, pp.2.
 
    
 
