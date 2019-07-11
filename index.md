@@ -71,6 +71,50 @@ Wu, Tim. “Esperanto for Machines.” The Master Switch, The Rise and Fall of I
 
 
 /*--------------------------------*/
+Week 2 blog comming very soon
+
+/*-------------------------------*/
+
+Week 3 Reflections about Self-Portrait
+
+The original idea of building my hypertext collage as a self-portrait was inspired by the works of Picasso, particularly by his
+revolutionary cubist work Still Life with Chair Caning. This work was celebrated for being modern art’s first collage, and it introduced
+the practice of embodiment, implementation and reinterpretation of commercial preexisting objects into the traditional realm of painting.
+For example a hard-textured rope was used to serve as the edge of this work. Personally I find his idea of collaging somewhat resembled 
+the idea of documenting with hyper-links and hypertexts, as it can be seen that Picasso “attached” some “hyper-linkable” premade artifacts
+to his collage and thus created a novel sense of connection between his work and the reality. 
+
+
+In terms of page design, I separated the entire page into three blocks, each containing three layers: introductory front page, sub-layer,
+and the gallery. The blocks are represented by three primary colors. This idea comes from a famous abstract work by Mondrian, namely the
+Composition with Red Blue and Yellow in 1930. His work abstracted the practice of painting to its purest level with merely the primary
+colors along with the horizontal and vertical lines, resembling the fundamental elements of painting. For my web design, the introductory
+pages and their sub-layers incorporated some minimalist approaches as I decided to reduce the format of the page into its most fundamental
+and functional elements, specifically the comments and clickable hyperlinks. I used some template scripts provided by w3schools for the
+galleries, attempted to resemble the practice of using premade artifacts as Picasso and Duchamp, and thus intended to represent a rather
+increasing maturity and complexity of the page formats.
+
+
+This project helped me better understand the implementation and structures of hypertexts we used in our daily lives. And it made the
+points from the article What Hypertext is by Noah Wardrip-Fruin more vivid. The article itself provided a rather brief, historical
+introduction about the form and implication of hypertext concepts. And as one of the short definition by Theodor Holm Nelson (the funder
+of hypertext concept) the author quoted, the hypermedia constituted by hyper links were based on a rather simple and concise concept that
+such links constructed an interconnected complex that “it could not conveniently be presented or represented on paper”(Noah 2). Some other
+characteristics of hypertexts, discoursed by Tim in the article Information Management: A Proposal, are also tested in this project. In 
+terms of the webpage I designed, it is indeed decentralized and rather the collage constitutes parallel blocks. By using hyperlinks the
+reader can navigate back and forth internally in between the blocks and galleries, swiftly access existing data uploaded to the file. The
+readers can also use external links that direct them to sources from other websites, and in turn the hypertext included these outside
+sources into my own document.
+
+
+I find the process of building this webpage rather enjoyable (besides dealing with unfamiliar github UI), educational and enlightening. In
+addition, I hided some secret links on the front page with some stenographical tricks for some personal amusements.
+
+Berners-Lee, Tim, Information Management: A Proposal, CERN, Mar 1989, May 1990, pp.7.
+
+Wardrip-Fruin, Noah, What Hypertext Is, Brown University, nd.
+
+   
 
 
 
