@@ -72,7 +72,7 @@ Wu, Tim. “Esperanto for Machines.” The Master Switch, The Rise and Fall of I
 
 /*--------------------------------*/
 
-Week 2 blog comming very soon
+Week 2 blog coming very soon
 
 
 /*-------------------------------*/
