@@ -72,7 +72,47 @@ Wu, Tim. “Esperanto for Machines.” The Master Switch, The Rise and Fall of I
 
 /*--------------------------------*/
 
-Week 2 blog coming very soon
+Week 2 
+
+This week’s reading investigated the design concept, principle and architecture of modern webpage, and particularly explored the origin
+and development of the hypertext concept within the framework of webpage construction. Specifically, Bush’s article As We May Think in the
+year 1945 envisioned an extended method to better coordinate scientists’ needs for transmitting and extracting existing researches. The
+readers could further trace that such idea was later endowed and formatted, in the language of hypertext and hyperlinks, by Berners-Lee at
+CERN in his proposal regarding imposing a novel methodology in the field of information managements. 
+
+
+For any type of information, Bush’s article proposed that it could be beneficial to scientific usages only if it could be continuously
+extended, stored, and visited. And a designed cross-reference system based on this concept of continuously editable and viable information
+formats was thus urged. Bush envisioned a mechanized private file archive, the “memex”, based on microfilm and index computing algorithms.
+Such mechanism could not only help the user to extract parallel materials from existing records, but also allow the insertion of new 
+material into the general body of the common record. The author blueprinted the platform of the interface as layered section of films, and
+the user could use keyboard to type in pre-designed code in order to search for specific records. Bush described the operation sequence of
+this memex in such the way that the user typed in the code and the title page of the archived materials, and by frequently using the code
+the reader could be directed in to detailed notes, photo, memoranda, and navigate in between the archived records. The author envisioned a
+codebook that contained the frequently referred codes, and the user can retrospectively refer to such book for guidance.
+
+
+Such an idea of “memex” as a systemically organized, mechanized private file archive that interacts with the users so that the record it
+contained could not only be frequently consulted, conveniently visited, but also be continuously extended was later formatted into the
+concept of hypertext. The proposal by Berners-Lee at CERN about introducing the idea of connected information systems for better record
+management for a large project such as LHC projects realized the concept described by Bush with the help of hypertext. Hypertext can be
+concisely formatted with the following idea: a direct connection between two specific positions in a text. Information logistics and
+management at CERN was proposed as a test field for hyperlinked structuring. Such structure allowed a collection of records to develop and
+evolve with the organizations and the projects, and thus formed a dynamic system for the storage, extraction and distribution of
+information. One can draw connections between the envisioned “memex” and the mature system of hyperlinked information web. Both mechanism
+allowed the user to interact with a pre-designed interface, and conveniently accessing and editing the existing data. The collections of
+material were parallel ordered, and the entire system was rather non-centralized. Such system equipped not only the scientific workers but
+also the general public with a privatized, personalized and linked archives for a better control and understanding of daily-gathered
+information.
+
+Berners-Lee, Tim, Information Management: A Proposal, CERN, Mar 1989, May 1990, pp.7.
+
+Bush, Vannevar, As We May Think, The Atlantic Monthly, July 1945, pp.101-108.
+
+Wardrip-Fruin, Noah, What Hypertext Is, Brown University, nd, pp.2.
+
+
+
 
 
 /*-------------------------------*/
