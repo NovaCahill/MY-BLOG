@@ -157,6 +157,58 @@ Berners-Lee, Tim, Information Management: A Proposal, CERN, Mar 1989, May 1990, 
 Wardrip-Fruin, Noah, What Hypertext Is, Brown University, nd, pp.2.
 
    
+/*-----------------*/
+
+Week 4 
+
+This week’s reading discussed the relationship and interaction between the designers and the users, and particularly interested in the 
+inclusion of human factors into technical frameworks. The paper by Norman about DesignX reinvestigated the design approaches confronting 
+challenges of complex sociotechnical systems, and addressed that the adversity of scaled design raise from implantation. The paper
+advocated the designers continue to play an active role in such stage, and proposed the application of incrementalism throughout the 
+problem-solving process. The book by Hayles took a rather huge leap into the sociotechnical analysis about the virtual bodies in 
+cybernetics through literatures and informatics, and it served as an abstract proposal about the inclusion of human factors into not only 
+specific field of research like design, but also into the global consideration about the technologies and how it integrated, physically or
+metaphysically, with individuals and society. 
+
+
+Norman’s paper provided an case study about a major collaborative project in UCSD Health Science departments and university hospital 
+system to examine and attempt to enhance the care of cancer patients receiving radiation oncology, as an example to illustrate the 
+adversities the designers of the project may encounter. The designers must coordinate the interaction between specialists from multiple
+field of research, along with reviewing the treatment records and set multiple practice plans accordingly at different levels of details.
+The complexity came from the entangled departments, specialists, disciplinary and consequently the priorities setup and facilities
+managements. Such forms of large-scale public and cross-disciplinary projects posed challenges to the designers throughout the designing 
+process from the basic principles to implement follow-ups. The paper proposed the human-factor-centered design, and suggested rethinking
+the problems that had been considered as mere human err. The author suggested that the proper solution is to reconsider the problems as
+results from interacting human behaviors, and such behaviors should be embedded into the system. By redesigning the system so that the
+underlying causes of problems from behavioral and psychological factors could be eliminated. The corresponding sociological, technological
+and cultural adjustments were encouraged during the design process.
+
+
+The paper also suggested the practice of incrementalism as a proper way to approach complex design problems. The design should be modular,
+and by decomposing problems into modules the challenges could be overcome through the chain of positive feedbacks formed when the modular
+task was accomplished, and on the other hand control the adversities at a certain step might not harm the entire project much. In the
+commentary by Flach, the author presented an alternative and empirical perspective for cognitive systems engineering. The author proposed 
+an emphasis on the “shaping the users’ internal models to be consistent with the pragmatic realties”, rather than the traditional 
+performance that more focused on matching such internal models. 
+
+
+The book by Hayles was rather hard to comprehend in my opinion. The book revisited the embodiment of cybernetics through literature and 
+informatics. The book proposed a question (and the concept) about the shift from “human” to “posthuman”, and attempted to demonstrate the
+embodiments and perspectives in the context of technological discourses and literary illustrations. The author discoursed speculative
+classics of Wolfe, Dick, and contemporary fictions such as Snow Crash, and Terminal Games to explore and contest the construction of
+“posthuman” in these works. 
+
+
+
+Flach, M. John, Supporting Self-Designeing Organizations, Sheji: The Jornal of Design, Economics, and Innovation, Vol. 1, No.2, 2015. 
+
+Hayles, N. Katherine, How We Became PostHuman: Virtual Bodies in Cybernetics, Literature, and Informatics, The University of Chicago
+Press, 1999, pp. xi-23. 
+
+Norman, Donald A., and Pieter Jan Stappers. DesignX: complex sociotechnical systems. She Ji: The Journal of Design, Economics, and Innovation VOl.1, No.2 , 2015, pp.83-106.
+
+
+
 
 
 
