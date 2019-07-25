@@ -208,6 +208,48 @@ Press, 1999, pp. xi-23.
 Norman, Donald A., and Pieter Jan Stappers. DesignX: complex sociotechnical systems. She Ji: The Journal of Design, Economics, and Innovation VOl.1, No.2 , 2015, pp.83-106.
 
 
+/*---------------*/
+
+Week 5
+
+This week’s reading discussed imminent problems about digital labor market and repairing e-wastes. The Los Angeles Times report by Gray 
+advocated the corporations and governments to formulate portable benefits plans in order to protect the rights of digital workforces and to stabilize such on-demand, crowdwork market. While Jackson’s article served as a sociotechnical analysis about the practice and
+appreciation of the practice of repairing, which is rather abstract. The article by Jackson considered such practice and mindset as the
+fulcrum between two different worldviews: one is the fractal and collapsing and the other is hopeful and promising. The practice of repair
+thus became a subtle act of care to the incomplete sociotechnical systems, so that such system can be maintained, transformed, preserved
+and extended.
+
+
+The web-based platforms such as Amazon Mechanical Turk reformatted the traditional employee-employer relations at the level of digital
+service market. Such platforms connected the “users” as the solution providers who played the role of the traditional “employee”, and
+“customers” as the service requestors that traditionally were “employers” altogether. But such connections were not formed through labor
+contract but rather by terms of service, resembling software licenses. Such platforms thus outsourced fragmented tasks demanded by the
+customers, ranging from individual needs to corporative missions, to scattered users. In addition, since the prices of the tasks are
+counted unit wise, such outsourcing of crowdwork labors allowed the platform to dismantle the fixed wage into piecewise micropayments. The
+report by Gray investigated a dispute between Riyaz Khan, a solution provider from India, and where he sold his labor to, the Amazon
+Mechanical Turk. Amazon disabled his account after few years of work and consequently a portion of his payment was suspended by AMT. The
+report found that the Terms of Service had granted Amazon with rights to suspend any payment account for any reason in their sole
+discretion. Such absence of legal definition of rights and responsibilities of the platform users and providers threatened the rights of
+crowdwork labors. 
+
+
+A fact that personally interested me was that at the secondary market, the technical solutions platform like AMT did not change the
+relationship of employment. It rather created another outsourcing market for the solution providers of such platforms so that these 
+providers can sublet and sub-distribute their works to secondary technicians. The report revealed, on the other hand, that as the works
+requested by AMT became more complex, the needs for collaborative works drove solution providers like Khan to be the secondary employer
+and might distributed or transferred his account to his employees. And such transferring of account was, indeed, prohibited by the Terms
+of Services signed between the users and AMT. Generally speaking AMT did have the right to suspend Khan’s account and payment for
+violation of the terms. In this sense the Terms of Service partially served as the traditional contract between the employees of the
+platform and the platform as the entity of employers. I personally think that such platform may originally intended to be a “paid-
+volunteering” market for a paid exchange of knowledge and help from individuals. But as such market of solutions exchange expanded, it
+shifted more towards to the labor market with structures of traditional employment relationships. And consequently I agreed with the
+report by Gray that as such platform got more expanded, involved and sophisticated, regulations from corporations or governments should be
+implemented so that the rights of digital labors could be granted just like its traditional counterparts.
+
+Gray, Mary L., "Op-Ed: Your Job is about to get 'taskified'", Los Angeles Times, Los Angeles Times, Jan. 8 2016. 
+https://www.latimes.com/opinion/op-ed/la-oe-0110-digital-turk-work-20160110-story.html
+
+Jackson, Steven J., Rethinking Repair, Media technologies: Essays on communication, materiality, and society, 2014, ch.11, pp.221-39.
 
 
 
