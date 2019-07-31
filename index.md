@@ -111,7 +111,11 @@ Bush, Vannevar, As We May Think, The Atlantic Monthly, July 1945, pp.101-108.
 
 Wardrip-Fruin, Noah, What Hypertext Is, Brown University, nd, pp.2.
 
+/*-----------------------------*/
 
+Here is my self-portrait: 
+
+https://novacahill.github.io
 
 
 
