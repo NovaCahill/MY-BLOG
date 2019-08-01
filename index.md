@@ -255,6 +255,15 @@ https://www.latimes.com/opinion/op-ed/la-oe-0110-digital-turk-work-20160110-stor
 
 Jackson, Steven J., Rethinking Repair, Media technologies: Essays on communication, materiality, and society, 2014, ch.11, pp.221-39.
 
+/*------------------------*/
+
+Week 6 
+
+https://elvti.github.io/amazon.wayback/immersion.html
+
+A website created by Anthony Tang, Cindy Wang, Danni Chen, Kaihan Yang, and Sideny Lin
+
+Aug 1, 2019
 
 
 
